@@ -1,0 +1,6 @@
+body {
+    background-image: url("/images/bg.jpg");
+}
+#form1{
+    border: 5px solid black;
+}
